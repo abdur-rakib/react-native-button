@@ -1,5 +1,5 @@
 {
-  "name": "appButton",
+  "name": "@abdur-rakib/react-native-button",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -25,5 +25,20 @@
   },
   "jest": {
     "preset": "react-native"
-  }
+  },
+  "description": "This is a simple button",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdur-rakib/react-native-button.git"
+  },
+  "keywords": [
+    "button"
+  ],
+  "author": "Abdur Rakib",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdur-rakib/react-native-button/issues"
+  },
+  "homepage": "https://github.com/abdur-rakib/react-native-button#readme"
 }
