@@ -1,5 +1,8 @@
 # react-native-button
 
+## install
+npm i @abdur-rakib/react-native-button
+
 ## Usage
 
     import {AppButton} from '@abdur-rakib/react-native-button';
